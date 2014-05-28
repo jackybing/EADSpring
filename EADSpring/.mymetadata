@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="EADSpring"
+  id="myeclipse.1395574650790"
+  context-root="/EADSpring"
+  j2ee-spec="5.0"
+  archive="EADSpring.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
